@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Beckham!
+## Hi, I'm Beckham!
 
 🎓 I'm a graduate in **Sistemas Microinformáticos y Redes (Computer Systems & Networks)** and a self-driven tech enthusiast based in **Madrid, Spain**. During my 2000-hour **SMR** training, I learned to install, configure, and maintain **microcomputer systems**, both standalone and in **local networks**, support IT infrastructure in **small business environments**, and work with hardware, networks, and operating systems such as Linux and Windows, including server administration.
 
